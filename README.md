@@ -1,5 +1,5 @@
 # Electric-Jellyfish-Fry
- An unofficial website for japanese idol group Electric Jellysifh -Fry-
+ An unofficial website for japanese idol group Electric Jellyfish -Fry-
 
  Electric Jellyfish -fry- is a japanese idol group which debuted in December 2022.
 
